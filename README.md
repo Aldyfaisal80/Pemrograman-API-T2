@@ -1,5 +1,18 @@
-# praktek-nextjs
+## Data Diri
 
-Repositori untuk praktek Matakuliah Pemograman API Kelas 5A dan 5B dengan Spesifikasi Standart NextJS versi 14.0.3 
+| Field          | Data                                                                      |
+| -------------- | ------------------------------------------------------------------------- |
+| NIM            | 22104410012                                                               |
+| Nama Lengkap   | [ALDY IBNU FAIZAL](https://github.com/Aldyfaisal80)                       |
+| Kelas          | TI-5A                                                                     |
+| Dosen Pengampu | [Mohammad Faried Rahmat, S.S.T., M.Tr.T](https://github.com/fariedrahmat) |
 
-Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer Anda 
+## PEMROGRAMAN API
+
+### List Latihan
+
+| No  | Latihan   | Detail                   |
+| --- | --------- | ------------------------ |
+| 01  | Latihan 2 | Belajar NEXT JS REST API |
+
+---
