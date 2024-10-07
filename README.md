@@ -13,6 +13,7 @@
 
 | No  | Latihan   | Detail                   |
 | --- | --------- | ------------------------ |
-| 01  | Latihan 2 | Belajar NEXT JS REST API |
+| 01  | Latihan 1 | [Belajar NEXT App Router](https://github.com/Aldyfaisal80/PemrogramanAPI-Latihan)  |
+| 02  | Latihan 2 | [Belajar NEXT JS REST API](https://github.com/Aldyfaisal80/Pemrograman-API-T2) |
 
 ---
